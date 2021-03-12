@@ -5,6 +5,7 @@ version: 0.0.1
 authors:
   - Itsememario
 description: dummy collection
+readme: docs/README.md
 license:
   - GPL-2.0-only
 dependencies: {}
