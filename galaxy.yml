@@ -1,0 +1,12 @@
+---
+namespace: philfry
+name: test
+version: 0.0.1
+authors:
+  - Itsememario
+description: dummy collection
+license:
+  - GPL-2.0-only
+dependencies: {}
+repository: https://github.com/philfry/ansiblecollectiondebug.git
+build_ignore: []
